@@ -1,10 +1,8 @@
 # Definindo o diretório
 
-setwd("C:\\Users\\aluno\\Desktop\\PORTIFOLIO\\ABENUTRI")
+setwd("")
 
-library(ggplot2)
-library(dplyr)
-library(tidyr)
+library(tidyverse)
 
 # Definindo o esquema de cores
 cores_graficos <- c("limegreen", "blue4", "yellow1")
