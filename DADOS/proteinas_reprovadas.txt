@@ -1,0 +1,27 @@
+MARCA|NOME|SABOR|PESO(g)|L-Glicina|L-Treonina|PAM
+ActiveNutrition|Protein Whey 3W|Baunilha|2000|-27.23%|33.52%|REPROVADO
+AST Sport Science (VB Indústria e Comercio de Supl)|VP2 Whey Protein Isolate|Chocolate|900|-15.89%|53.73%|REPROVADO
+Athletica Nutrition|Whey Flavour|Milkshake chocolate|850|70.32%|38.66%|REPROVADO
+Athletica Nutrition|Best Whey|Double Chocolate|900|153.26%|10.37%|REPROVADO
+Athletica Nutrition|Best Whey|Brigadeiro|900|25.31%|-25.89%|REPROVADO
+Bodyaction Nutri Science|Whey Muscle Hammer|Chocolate|1800|737.70%|22.08%|REPROVADO
+Bodyaction Nutri Science|3whey Top Taste|Chocolate|900|865.81%|-6.07|REPROVADO
+Bodyaction Nutri Science|Isolate Prime Whey|Chocolate|900|939.43%|44.64|REPROVADO
+Bodyaction Nutri Science|Isolate Prime Whey|Chocolate|900|912.71%|12.52|REPROVADO
+Bodyaction Nutri Science|Isolate Prime Whey|Chocolate|900|458.04%|5.52|REPROVADO
+Cobra Nutrition|Iso 100%|Chocolate|2000|-54.62%|65.04%|REPROVADO
+Evolution Nutrition Lab|Protein 1 Whey|Napolitano|900|-21.62%|41.58%|REPROVADO
+ForceUP (LHS Foods)|3Whey Progein Powder|Chocolate|907|1.50%|216.53%|REPROVADO
+FTW Sports Nutrition|Whey Blend|Chocolate|900|510.41%|18.29%|REPROVADO
+FTW Sports Nutrition|Whey 3W|Chocolate|900|-3.35%|46.39%|REPROVADO
+FTW Sports Nutrition|3 Whey Protein|Swiss Chocolate|900|37.84%|34.36%|REPROVADO
+MHP (Maximum Human Performance)|Maximum Whey|Cokkies and Cream|900|63.71%|-48.27%|REPROVADO
+Muscletech|Nitrotech Whey Gold|Cookies and Cream|1000|36.14%|-65.70%|REPROVADO
+NitroMax (The Heat Comércio Varejista)|Nitro Power Whey|Mousse de Morango|900|1556.19%|60.07%|REPROVADO
+Ravenna Sports Nutrition|5W Whey Protein|Morango com Banana|2000|-61.09%|106.10%|REPROVADO
+Ultimate Nutrition|Prostar 100% Whey Protein|Vanila Cream|907|-21.13%|28.28%|REPROVADO
+Under Labz|Isohydro++Flexx whey|Chocolate Petit Gateau|907|39.47%|8.74%|REPROVADO
+Xpro Nutrition|W-Iso Isolate Whey|Chocolate|900|845.95%|34.05%|REPROVADO
+Xpro Nutrition|Iso-X Protein Complex|Chocolate|900|53.42%|47.12%|REPROVADO
+XTR Health Research|Hyper Whey|Chocolicious|900|-7.91%|39.80%|REPROVADO
+

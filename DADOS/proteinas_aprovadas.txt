@@ -1,0 +1,69 @@
+MARCA|NOME|SABOR|PESO(g)|L-Glicina|L-Treonina|PAM
+ABSOLUT NUTRITION|Whey 100% Pure|Chocolate|900|-14.22%|12.02%|APROVADA
+ActiveNutrition|3WHealth|Baunilha|2100|-18.50%|-19.96%|APROVADA
+AGE (Intlab Suplementos Nutricionais)|100% Whey|Chocolate|907|4.65%|18.08%|APROVADA
+Athletica Nutrition|100% Whey Flavour|Chocolate|850|14.35%|-18.06%|APROVADA
+Black Skull|Whey 4HD|Morango|907|-19.13%|4.40%|APROVADA
+Best Nutrition|Whey|Chocolate|2000|-18.37%|-16.74%|APROVADA
+Black Skull|Whey 3HD|Bacio di latte|900|-10.84%|9.27%|APROVADA
+Black Skull|Whey 100% HD|Morango|900|-6.96%|-10.16%|APROVADA
+Black Skull|Hydrolysis|Baunilha|907|-7.89%|10.11%|APROVADA
+Black Skull|Protein Muscle|Toffee|900|-10.79%|-5.74%|APROVADA
+Black Skull|Whey|Chocolate|900|-3.63%|-0.03%|APROVADA
+Black Skull|Protein 7 Blend Gourmet|Cheesecake de Morango|837|-10.95%|11.19%|APROVADA
+Black Skull|Whey 100%|Chocolate|837|11.49%|-16.34%|APROVADA
+Black Skull|Whey Turbo|Baunilha|907|-11.00%|-11.22%|APROVADA
+Black Skull|Albumin Turbo|sem sabor|500|-9.89%|11.21%|APROVADA
+Black Skull|Protein 7 Blend|Chocolate|1800|-10.05%|10.63%|APROVADA
+Black Skull|Whey Zero|Chocolate|907|-3.81%|-2.28%|APROVADA
+Black Skull|Whey 3HD|Chocolate|900|-10.20%|13.73%|APROVADA
+Bodyaction Nutri Science|100% Whey Prime|Chocolate|900|-19.86%|-19.23%|APROVADA
+Cellucor (Nutrabolt)|Whey|Chocolate|889|-19.22%|-19.47%|APROVADA
+DUX Nutrition Lab|Whey Protein Isolado|Chocolate|900|-19.96%|-19.44%|APROVADA
+Dymatize|Iso100 Hydrolyzed|Gorumet Vanilla|2300|-18.11%|-18.36%|APROVADA
+Dymatize|Iso100 Hydrolyzed|Strawberry|725|-19.74%|9.32%|APROVADA
+FTW Sports Nutrition|Whey Ultra Protein|Chocolate|900|-8.85%|5.78%|APROVADA
+FTW Sports Nutrition|Iso Porein|Sem Informação|900|-18.88%|-17.30%|APROVADA
+FTW Sports Nutrition|Delicious 3 Whey|Chocolate|900|-12.08%|-19.47%|APROVADA
+Gaspari|Proven Whey|Napolitan Ice Cream|900|6.60%|-19.89%|APROVADA
+Generic Labs (Intlab Suplementos Nutricionais)|100% Whey|Chocolate|907|-19.02%|-14.53%|APROVADA
+Generic Labs (Intlab Suplementos Nutricionais)|Whey Blend|Chocolate|2000|-19.88%|-18.52%|APROVADA
+Protesa|100% Premium Whey Protein|baunilha|900|-18.64%|-10.69%|APROVADA
+Health Time|Whey Protein 100%|Chocolate|2100|-13.89%|3.09%|APROVADA
+IntLab|100% Whey Pure|Chocolate|907|-19.64%|3.65%|APROVADA
+Max Titanium|Femini Whey|Chocolate|600|-18.40%|16.26%|APROVADA
+Max Titanium|Top Whey 3W|Brigadeiro|900|-6.47%|-19.07%|APROVADA
+Max Titanium|Iso Whey|Chocolate|900|-18.44%|-18.76%|APROVADA
+Max Titanium|Top Whey 3W|Chocolate|900|-8.58%|-14.36%|APROVADA
+Max Titanium|100% Whey|Chocolate|900|-14.16%|-19.89%|APROVADA
+MK Suplements (LHS Foods)|Best Gourmet|Mousse de Maracujá|907|-9.94%|7.91%|APROVADA
+Muscletech|Nitrotech Whey Gold|French Vailla Créme|999|-7.87%|6.25%|APROVADA
+Nutrex Research (Intlab Suplementos Nutricionais)|Muscle Infusion|Chocolate|907|-19.63%|-18.48%|APROVADA
+OnlyPro|Whey Protein 3W|Açai com Morango|2000|-19.21%|15.06%|APROVADA
+Optimum Nutrition|Gold Standard 100% Whey|Double Rich Chocolate Flavoir|907|-19.54%|-5.55%|APROVADA
+Panic Sciences|3W Whey Protein|Morango|2000|-10.40%|12.50%|APROVADA
+Pro Effect Sports Nutrition|5W Dark Whey Insane|Chocolate|2000|-19.02%|-18.81%|APROVADA
+Probiótica|100% Pure Whey Zero Lacotse|Chocolate|900|-6.06%|-19.86%|APROVADA
+Probiótica|Hiper 100% Whey|Cookies and Cream|900|-14.22%|12.02%|APROVADA
+Probiótica|Pro Whey Protein|Chocolate|500|18.21%|-19.47%|APROVADA
+Probiótica|Iso Pro Whey|Chocolate|900|-18.82%|-2.05%|APROVADA
+Probiótica|3 Whey Protein|Chocolate|900|-10.56%|7.31%|APROVADA
+Probiótica|100% Pure Whey|Chocolate|900|-5.36%|-6.94%|APROVADA
+Proway|Whey Concentrate|Chocolate|900|-17.00%|-19.79%|APROVADA
+SCI Nutrition|100% Whey|Chocolate|900|-19.98%|-6.37%|APROVADA
+Smart Fit|100% Whey Protein|Chocolate|900|1.71%|-18.90%|APROVADA
+Smart Fit|Isolado Whey Protein|Chocolate|900|-14.23%|-19.74%|APROVADA
+Under Labz|Flexx Tasty Whey|Leite|907|6.97%|11.73%|APROVADA
+Underx Nutrition|Whey Gorumet|Morango|900|-16.42%|-18.04%|APROVADA
+Universal|Ultra Whey Pro|Chocolate|909|17.56%|-18.19%|APROVADA
+Vitafor|7-Whey|Morango|900|-7.67%|-18.98%|APROVADA
+Vitafor|Whey Fort|Abacaxi|900|18.34%|-19.91%|APROVADA
+Vitafor|IsofortBeuty|Cacau|450|10.91%|-19.10%|APROVADA
+Vitafor|Isofort Ultra Imuno|Cacau|600|-19.16%|7.74%|APROVADA
+Vitafor|Isofort|Chocolate|450|-18.37%|-19.98%|APROVADA
+Vitafor|Life Whey|Baunilha|900|-13.74%|-19.96%|APROVADA
+WiseHealth Nutrition|IsolateWhey|Chocolate|900|-18.33%|-19.34%|APROVADA
+WiseHealth Nutrition|Starter Whey|Chocolate Milkshake|900|19.51%|19.80%|APROVADA
+WiseHealth Nutrition|Autehentic Whey|Chocolate|900|-19.90%|16.96%|APROVADA
+WiseHealth Nutrition|Whey Zero Lactose|Chocolate|450|-2.26%|2.82%|APROVADA
+WiseHealth Nutrition|Whey|Chocolate|450|6.10%|-19.98%|APROVADA
