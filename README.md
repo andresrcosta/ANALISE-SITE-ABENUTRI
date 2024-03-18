@@ -7,9 +7,7 @@
 
 ## Descrição
 
-
-## Motivação
-
+Este estudo realiza uma análise estatística dos laudos de proteínas e creatinas do Programa de Automonitoramento do Mercado de Suplementos Nutricionais (PAM) da ABENUTRI. Utilizando técnicas estatísticas descritivas, buscquei avaliar a qualidade e consistência desses componentes nos produtos do mercado de suplementos.
 
 ## Requisitos de Sistema
 
@@ -19,14 +17,22 @@ Software RSTUDIO 4.3.2
 
 O relatório PDF incluso neste repositório contém as seguintes análises:
 
-1. ****  
+1. **Proteínas**  
+   1.1 Resultados Gerais  
+   1.2 Ranking dos Produtos Aprovados  
+   1.3 Ranking dos Produtos Reprovados  
+   1.4 Variação na Concentração de L.Glicina dos Produtos Aprovados
+   1.4 Variação na Concentração de L.Treonina dos Produtos Aprovados
+   1.4 Variação na Concentração de L.Glicina dos Produtos Reprovados
+   1.4 Variação na Concentração de L.Treonina dos Produtos Reprovados 
+  
 
-2. ****  
-
-3. ****  
-
-4. ****  
-
-5. ****  
-
-6. ****
+2. **Creatinas**  
+   1.1 Resultados Gerais  
+   1.2 Ranking dos Produtos Aprovados na Análise Laboratorial. 
+   1.3 Ranking dos Produtos Reprovados na Análise Laboratorial.
+   1.4 Ranking dos Produtos Aprovados na Análise de Rotulagem. 
+   1.5 Ranking dos Produtos Reprovados na Análise de Rotulagem.
+   1.6 Produtos que não continham Creatina
+   1.7 Variação na Concentração de Creatina nos Produtos Aprovados
+   1.8 Variação na Concentração de Creatina nos Produtos Reprovados
