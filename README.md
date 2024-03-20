@@ -7,7 +7,7 @@
 
 ## Descrição
 
-Este repositório documenta a análise dos laudos de proteínas e creatinas do Programa de Automonitoramento do Mercado de Suplementos Nutricionais (PAM) da ABENUTRI. Utilizando técnicas estatísticas descritivas, busquei avaliar a qualidade e consistência desses componentes nos produtos do mercado de suplementos.
+Este repositório documenta a análise dos laudos de proteínas e creatinas do Programa de Automonitoramento do Mercado de Suplementos Nutricionais (PAM) conduzido pela ABENUTRI. Utilizando técnicas estatísticas descritivas, busquei avaliar as informações do site e também os componentes destes produtos laudados.
 
 ## Requisitos de Sistema
 
